@@ -7,7 +7,7 @@ Source Code :- Click [here](https://github.com/sja-thedude/Unreal-Video-Games/tr
 
 To view the loom video explaining how the Game works and what are its features -: Click [here](https://www.loom.com/share/1e147a83cb0b4714b4216df64890548f) 
 
-<img src="" width="800" height="400">
+<img src="https://user-images.githubusercontent.com/70269507/189538213-d0853f7e-48c7-493e-baaa-757b6346b9d3.png" width="800" height="400">
 
 ## Built With
 
